@@ -12,8 +12,9 @@ ClientServerFramework is a simple Java-based client-server communication module.
 - Extensible client class for custom client applications.
 
 ## JAR Downloads
-[CSF ver1.0.0](https://github.com/user-attachments/files/16171953/ClientServerFramework.v1.0.0.zip) | Updated 7/10/2024
+[CSF ver1.0.1](https://github.com/user-attachments/files/16172206/ClientServerFramework.v1.0.1.zip) | Updated 7/11/2024
 
+[CSF ver1.0.0](https://github.com/user-attachments/files/16171953/ClientServerFramework.v1.0.0.zip) | Updated 7/10/2024
 
 ### Prerequisites
 
